@@ -1,0 +1,14 @@
+layout_spectrum: 0.4686717
+color:
+  saturation: 0.740574
+  brandStrength: 0.7019101
+  lightness: 0.4360902
+  rhythmicContrast: 0.03405437
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.429198
+name: Keyser
